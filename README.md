@@ -1,7 +1,2 @@
-# 21klearning.github.i
-<iframe src="21klearning.base44.app" 
-        title="21K Learning Platform" 
-        width="100%" 
-        height="600" 
-        style="border:none;">
-</iframe>
+# 21klearning.github.io
+<iframe src="21klearning.base44.app" width="600" height="400" frameborder="0" scrolling="yes"></iframe>
